@@ -1,2 +1,4 @@
-# Ola-mundo
- primeiro repósitorio git-github
+# Olá, mundo
+ Primeiro repositório Git-Github
+
+Repositório criando durante uma live.
